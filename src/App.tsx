@@ -22,7 +22,7 @@ function App() {
       <br />
       <Link to="/multi">Multi</Link>
       <br />
-      <Link to="/grouped">Grouped</Link>
+      <Link to="/grouped">Groupedlala</Link>
       <br />
       <Link to="/animation">Animation</Link>
       <br />
